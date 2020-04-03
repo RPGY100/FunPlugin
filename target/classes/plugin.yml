@@ -1,0 +1,13 @@
+name: Funplugin
+version: 1.1-SNAPSHOT
+main: jp.pmm.FunPlugin
+authors: [Rapid_Fire_y]
+website: https://taikisaba-net.work
+
+commands:
+  super:
+    usage: tpを感じよう。
+  explosion:
+    usage: 爆裂魔法。
+
+
